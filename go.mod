@@ -11,7 +11,7 @@ require (
 	github.com/kayac/go-config v0.6.0
 	github.com/mackerelio/mackerel-client-go v0.21.0
 	github.com/stretchr/testify v1.7.0
-	github.com/urfave/cli/v2 v2.2.0
+	github.com/urfave/cli/v2 v2.3.0
 )
 
 require (
