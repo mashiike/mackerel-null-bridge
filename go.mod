@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/go-version v1.4.0
 	github.com/kayac/go-config v0.6.0
 	github.com/mackerelio/mackerel-client-go v0.21.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.5
 	github.com/urfave/cli/v2 v2.4.0
 )
 
@@ -29,5 +29,5 @@ require (
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	golang.org/x/tools v0.0.0-20200612022331-742c5eb664c2 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
